@@ -1,0 +1,51 @@
+body{
+    background-color: #e2f4de;
+    color: #50976a;
+}
+/*For button */
+.button{
+    color: #50976a;
+    background-color: #e2f4de;
+    border: 1px solid #50976a;
+    border-radius: 10px;
+}
+button:hover{
+    background-color: #50976a;
+    color: #e2f4de;
+}
+
+/*For input */
+.input{
+    border-radius: 10px;
+    background-color: #e2f4de;
+    border: 1px solid #50976a;
+    color: #50976a;
+    font-weight: 600;
+}
+
+/*For table */
+.table td{
+    font-weight: 700;
+    color: #50976a;
+    
+}
+/*For selector */
+.selected{
+    border: 3px solid #50976a;
+}
+
+/*For notify */
+.notify {
+    color: #fff;
+    text-align: center;
+    margin: 0 auto;
+    background: #50976a;
+    margin-top: 20px;
+    border-radius: 15px;
+    padding: 5px 20px;
+    display: none;
+}
+.notify-section{
+    width: 35%;
+    margin: 0 auto;
+}
